@@ -1,101 +1,20 @@
-# Resume-Builder (AlmaBetter**Capstone**Project)
+<h1 align="center">Hi 👋, I'm Nilesh Valhe</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+(img align="right" alt="Coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif")
 
-├── public/
-│ ├── favicon.ico
-│ ├── index.html
-│ ├── logo192.png
-│ ├── logo512.png
-│ ├── manifest.json
-│ └── robots.txt
-│
-├── src/
-│ ├── App.js
-│ ├── index.css
-│ ├── index.js
-│ │
-│ └── Components/
-│ ├── about_us_page/
-│ │ └── aboutus.jsx
-│ │
-│ ├── detail_filling_page/
-│ │ ├── navtabs/
-│ │ │ └── navtabs.jsx
-│ │ ├── detail.jsx
-│ │ ├── education.jsx
-│ │ ├── keyskills.jsx
-│ │ ├── personal_info.jsx
-│ │ └── workexperience.jsx
-│ │
-│ ├── homepage/
-│ │ ├── my_templates.jsx
-│ │ ├── mytamplate.css
-│ │ ├── template1.jsx
-│ │ ├── template2.jsx
-│ │ ├── template3.jsx
-│ │ └── templte4.jsx
-│ │
-│ ├── preview_page/
-│ │ ├── preview.jsx
-│ │ └── preview.css
-│ │
-│ ├── images/
-│ │ ├── aboutCv.jpg
-│ │ ├── T1.png
-│ │ ├── T2.png
-│ │ ├── T3.png
-│ │ └── T4.png
-│ │
-│ ├── navbar/
-│ │ └── navbar.jsx
-│ │
-│ ├── PersonalInfo/
-│ │ ├── PersonalInfoComponent.css
-│ │ └── PersonalInfoComponent.js
-│ │
-│ └── Preview/
-│ ├── PreviewComponent.css
-│ └── PreviewComponent.js
-│
-├── constant/
-│ └── actiontype.js
-│
-├── state/
-│ ├── action/
-│ ├── action.js
-│ ├── index.js
-│ └── Sel_Template.js
-│
-├── reducer/
-│ ├── index.js
-│ ├── Sel_Template.js
-│ └── updateinforeducer.js
-│
-└── store/
-└── store.js
+- 🌱 I’m currently learning **full stack web development course**
 
-## Introduction
+- 💬 Ask me about **React.js , HTML , CSS**
 
-- Resume@builder is a web application where anyone can create resume with ease and choose from different available templates.
-- It has two tabs : 1) Resume Templates (Home Page) , 2) About us
-- Before downloading we have a preview option to view your resume.
-- You can download resumes to the local hard drive.
+- 📫 How to reach me **Nileshvalhe7@gmail.com**
 
-## Used in this project:
+- ⚡ Fun fact **I think i am enthusiastic person.**
 
-- React-Router-Dom
-- Material UI
-- React-Redux
-- Store
-- React-Avatar-edit
-- Vanilla CSS
-- JSX
-- React-Hook-Forms
-- Jspdf converter
-- Redux
-- Images
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nilesh-valhe-806757226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilesh-valhe-806757226/" height="30" width="40" /></a>
+<a href="https://instagram.com/nil_0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nil_0206" height="30" width="40" /></a>
+</p>
 
-## Pages
-
-- Home (Resume Templates) <br/> -Choose one from the available templates ;
-  <br/> -Navigated to details filling page
-- About us
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
